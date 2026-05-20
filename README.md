@@ -33,20 +33,6 @@ Security Automation Engineering Lead • Cloud & Platform Engineering
 
 <img src="https://img.shields.io/badge/Wiz-6C47FF?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
-<img src="https://img.shields.io/badge/DevSecOps-0F172A?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-<img src="https://img.shields.io/badge/Platform_Engineering-111827?style=for-the-badge" />
-
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dheeban0111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeban0111&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
