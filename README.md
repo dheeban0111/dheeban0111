@@ -25,11 +25,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,postgres,docker,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,bash,git,docker,mongodb,githubactions,aws,azure,gcp" />
 
 </p>
 
----
+<p align="center">
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
+</p>
 
 ## 📊 GitHub Stats
 
