@@ -1,21 +1,26 @@
 <h1 align="center">Hi 👋, I'm Dheeban</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering-led+Developer;Automation-first+Mindset;Cloud-native+Builder;Backend+%26+Platform+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=DevSecOps+%26+Platform+Engineering;Cloud+Security+Automation;Terraform+%7C+Python+%7C+GitHub+Actions;Wiz+%26+Snyk+Implementation;Engineering-led+Automation-first+Mindset" />
 </p>
 
 <p align="center">
   Engineering-led • Automation-first • Cloud-native mindset
 </p>
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Dheeban&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-- ⚙️ Building automation-first systems and developer tooling
-- ☁️ Interested in cloud-native infrastructure and scalable backend systems
-- 🧠 Exploring AI, platform engineering, and workflow automation
-- 🛠️ Focused on practical engineering and clean execution
+- ⚙️ Engineering-led developer with an automation-first mindset
+- 🔐 Experienced in end-to-end rollout of Wiz and Snyk across cloud environments
+- ☁️ Built automated workflows using Terraform, Python, and GitHub Actions
+- 🛠️ Worked across evaluation, implementation, integration, and documentation phases
+- 📚 Focused on scalable cloud infrastructure, DevSecOps, and platform engineering
 
 ---
 
@@ -23,7 +28,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,git,docker,mongodb,githubactions,aws,azure,gcp" />
+<img src="https://skillicons.dev/icons?i=python,bash,git,githubactions,docker,terraform,mongodb,aws,azure,gcp,linux" />
 
 </p>
 
