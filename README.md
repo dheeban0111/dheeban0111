@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Dheeban</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering-led+Developer;Automation-first+Mindset;Full+Stack+Builder;AI+%26+Systems+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering-led+Developer;Automation-first+Mindset;Cloud-native+Builder;Backend+%26+Platform+Engineering" />
 </p>
 
 <p align="center">
-  Engineering-led, automation-first culture.
-  <br/>
-  Building scalable systems, developer tools, and practical AI solutions.
+  Engineering-led • Automation-first • Cloud-native mindset
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- ⚙️ Focused on automation, developer productivity, and scalable architecture
-- 🧠 Interested in AI systems, backend engineering, and modern web stacks
-- 🌱 Constantly learning and building
-- 🛠️ Turning ideas into production-ready projects
+- ⚙️ Building automation-first systems and developer tooling
+- ☁️ Interested in cloud-native infrastructure and scalable backend systems
+- 🧠 Exploring AI, platform engineering, and workflow automation
+- 🛠️ Focused on practical engineering and clean execution
 
 ---
 
@@ -35,11 +33,13 @@
 
 </p>
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dheeban0111&show_icons=true&theme=tokyonight&hide_border=true" />
-  
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeban0111&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -64,17 +64,19 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/dheeban0111">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <a href="mailto:yourmail@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
+
+<a href="https://github.com/dheeban0111">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/dheeban-kathiresan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:dheeban.kathiresan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
