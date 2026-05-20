@@ -1,21 +1,23 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Security+Automation+Engineering+Lead;Cloud-native+Platform+Engineering;Infrastructure+Automation+at+Scale;Terraform+%7C+Python+%7C+GitHub+Actions;Wiz+%7C+Snyk+%7C+DevSecOps;Architecture+Planning+%26+Implementation" />
-</p>
+<h1 align="center">Hi 👋, I'm Dheeban</h1>
+
+<h3 align="center">
+Security Automation Engineering Lead • Cloud & Platform Engineering
+</h3>
 
 <p align="center">
-  Engineering-led • Automation-first • Scalable infrastructure mindset
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Cloud-native+Infrastructure+Engineering;Security+Automation+at+Scale;Terraform+%7C+Python+%7C+GitHub+Actions;DevSecOps+%7C+Platform+Engineering;Architecture+Planning+%26+Implementation" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- ⚙️ Security Automation Engineering Lead focused on scalable cloud and platform engineering
-- ☁️ Experienced in architecture planning, implementation, automation, and operational improvements across enterprise environments
-- 🔐 Led end-to-end rollout and integration of Wiz and Snyk across cloud environments and CI/CD ecosystems
-- 🛠️ Built automation-first solutions using Terraform, Python, Bash, and GitHub Actions
-- 📈 Worked across infrastructure standardization, cloud security, CI/CD optimization, and engineering enablement
-- 📚 Strong focus on reliability, scalability, maintainability, and developer productivity
+- ⚙️ Security Automation Engineering Lead with strong focus on cloud-native platform engineering
+- ☁️ Experienced in scalable infrastructure architecture, automation, and operational excellence
+- 🔐 Led enterprise-wide rollout and integration of Wiz and Snyk across multi-cloud and CI/CD ecosystems
+- 🛠️ Built automation-first engineering solutions using Terraform, Python, Bash, and GitHub Actions
+- 📈 Worked on infrastructure standardization, security automation, developer enablement, and CI/CD optimization
+- 📚 Passionate about reliability, scalability, maintainability, and engineering efficiency
 
 ---
 
@@ -23,7 +25,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,git,githubactions,docker,terraform,mongodb,aws,azure,gcp,linux" />
+<img src="https://skillicons.dev/icons?i=python,bash,git,githubactions,docker,terraform,aws,azure,gcp,linux,mongodb" />
 
 </p>
 
@@ -31,7 +33,8 @@
 
 <img src="https://img.shields.io/badge/Wiz-6C47FF?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/DevSecOps-0F172A?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+<img src="https://img.shields.io/badge/Platform_Engineering-111827?style=for-the-badge" />
 
 </p>
 
@@ -40,9 +43,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dheeban0111&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeban0111&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dheeban0111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeban0111&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -50,7 +55,9 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeban0111&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=dheeban0111&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -58,12 +65,14 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dheeban0111/dheeban0111/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://raw.githubusercontent.com/dheeban0111/dheeban0111/output/github-contribution-grid-snake-dark.svg" />
+
 </p>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
 
