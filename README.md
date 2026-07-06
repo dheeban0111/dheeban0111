@@ -39,9 +39,9 @@ Security Automation Engineering Lead • Cloud & Platform Engineering
 ## 🔥 Contribution Streak
 
 <p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeban0111&show_icons=true&theme=tokyonight)
-
+  <img alt="GitHub Streak"
+       src="https://streak-stats.demolab.com?user=dheeban0111&theme=tokyonight&hide_border=true"
+       width="700"/>
 </p>
 
 ---
