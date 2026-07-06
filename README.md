@@ -40,7 +40,7 @@ Security Automation Engineering Lead • Cloud & Platform Engineering
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=dheeban0111&theme=tokyonight&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=dheeban0111&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 </p>
 
