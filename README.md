@@ -32,6 +32,7 @@ Security Automation Engineering Lead • Cloud & Platform Engineering
 <img src="https://img.shields.io/badge/Wiz-6C47FF?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
 <img src="https://img.shields.io/badge/ThreatConnect-0A2540?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20SecOps-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
 </p>
 
