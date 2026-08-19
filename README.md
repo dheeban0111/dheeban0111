@@ -10,12 +10,71 @@ Security Automation Engineering Lead • Cloud & Platform Engineering
 
 ## 🚀 About Me
 
-- ⚙️ Security Automation Engineering Lead with strong focus on cloud-native platform engineering
+- ⚙️ Security Automation Engineering Lead with a strong focus on cloud-native platform engineering
 - ☁️ Experienced in scalable infrastructure architecture, automation, and operational excellence
 - 🔐 Led enterprise-wide rollout and integration of Wiz and Snyk across multi-cloud and CI/CD ecosystems
 - 🛠️ Built automation-first engineering solutions using Terraform, Python, Bash, and GitHub Actions
-- 📈 Worked on infrastructure standardization, security automation, developer enablement, and CI/CD optimization
+- 📈 Focused on infrastructure standardization, security automation, developer enablement, and CI/CD optimization
+- 🏗️ Experienced in translating architecture strategy into scalable engineering implementations
 - 📚 Passionate about reliability, scalability, maintainability, and engineering efficiency
+
+---
+
+## 🧭 Engineering Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cloud%20%26%20Platform-Automation-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DevSecOps-Security%20at%20Scale-6C47FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Infrastructure-as%20Code-623CE4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-Python%20%7C%20Bash-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+  <b>Build → Automate → Secure → Scale</b>
+</p>
+
+---
+
+## 🔥 What I Build
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### ☁️ Cloud Platforms
+
+Scalable infrastructure, cloud-native architecture, platform foundations, and infrastructure automation.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐 Security Automation
+
+Security controls, vulnerability management, CSPM, DevSecOps, and automated remediation.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Infrastructure as Code
+
+Terraform-driven infrastructure, reusable modules, engineering standards, and automated workflows.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 Developer Platforms
+
+CI/CD automation, GitHub Actions, self-service workflows, and developer enablement.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -38,36 +97,68 @@ Security Automation Engineering Lead • Cloud & Platform Engineering
 
 ---
 
-## 🔥 Contribution Streak
+## 🏗️ Engineering Capabilities
 
-<p align="center">
-  <img alt="GitHub Streak"
-       src="https://streak-stats.demolab.com?user=dheeban0111&theme=tokyonight&hide_border=true"
-       width="700"/>
-</p>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### ☁️ Cloud & Infrastructure
+
+- Multi-cloud architecture
+- Cloud platform engineering
+- Infrastructure standardization
+- Terraform & Infrastructure as Code
+- Reusable infrastructure modules
+- Infrastructure automation
+- Operational excellence
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🔐 Security & DevSecOps
+
+- Security automation
+- Cloud security posture management
+- Vulnerability management
+- Wiz & Snyk integration
+- CI/CD security
+- Automated security workflows
+- Security remediation automation
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+### ⚙️ Automation & Engineering
+
+- Python automation
+- Bash scripting
+- GitHub Actions
+- CI/CD optimization
+- API-driven automation
+- Engineering workflow automation
+- Self-service platform capabilities
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🧠 Architecture & Leadership
+
+- Architecture planning
+- Technical solution design
+- Engineering standards
+- Platform strategy
+- Developer enablement
+- Cross-functional technical leadership
+- Scalable implementation patterns
+
+</td>
+</tr>
+</table>
 
 ---
-
-## 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/dheeban0111/dheeban0111/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/dheeban-kathiresan/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:dheeban.kathiresan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
