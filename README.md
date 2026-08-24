@@ -16,7 +16,7 @@ Security Automation Engineering Lead • Cloud & Platform Engineering
 - 🛠️ Built automation-first engineering solutions using Terraform, Python, Bash, and GitHub Actions
 - 📈 Focused on infrastructure standardization, security automation, developer enablement, and CI/CD optimization
 - 📈 Focused on IoC standardization, playbook implementation around Threat Connect and Google SecOps
-- - 🏗️ Experienced in translating architecture strategy into scalable engineering implementations
+- 🏗️ Experienced in translating architecture strategy into scalable engineering implementations
 - 📚 Passionate about reliability, scalability, maintainability, and engineering efficiency
 
 ---
