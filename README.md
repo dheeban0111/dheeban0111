@@ -1,5 +1,5 @@
 <h3 align="center">
-Security Automation Engineering Lead • Cloud & Platform Engineering
+Security Automation & Process Engineering Lead • Cloud & Platform Engineering
 </h3>
 
 <p align="center">
